@@ -3,6 +3,9 @@
     "version": "0.1.0",
     "description": "",
     "private": true,
+    "scripts": {
+        "allure": "allure serve"
+    },
     "keywords": [],
     "author": "",
     "license": "ISC",
